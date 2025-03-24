@@ -1,34 +1,50 @@
-<!--
-**brahmamj/brahmamj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Brahmam J 👋</h1>
+<h3 align="center">DevOps & MLOps Engineer | Cloud | Kubernetes | Automation</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourprofilebrahmamj"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail"></a>
+  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/-Portfolio-181717?style=flat-square&logo=github"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-<h1>Hi 👋, I'm Brahmam J</h1>
-<p>A passionate DevOps Engineer</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/brahmamj" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0a77b6" alt="linkedin" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=brahmamj&show_icons=true&locale=en" alt="brahmamj" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brahmamj&" alt="brahmamj" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=brahmamj&show_icons=true&locale=en&layout=compact" alt="brahmamj" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brahmamj" alt="brahmamj" /></a></p>
+### 🚀 About Me
+- 🔧 **DevOps & MLOps Enthusiast** passionate about cloud, automation, and CI/CD.
+- 🛠️ Experienced with **Kubernetes, Terraform, Helm, AWS, Jenkins, Ansible, and Docker**.
+- 🤖 Interested in **Machine Learning model deployment and orchestration**.
+- 📘 Currently learning **Python for DevOps & AI/ML Pipelines**.
+
+---
+
+### ⚙️ Tech Stack
+
+#### **DevOps & Cloud**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+
+#### **MLOps**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brahmamj&show_icons=true&theme=dark" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brahmamj&theme=dark" width="48%" />
+</p>
+
+---
+
+### 📫 Connect with Me
+- 📩 Email: **your.email@example.com**
+- 🔗 LinkedIn: [yourprofile](https://www.linkedin.com/in/brahmamj/)
+- 🌍 Portfolio: [your-portfolio.com](https://your-portfolio.com)
+
+---
+
+⭐️ *If you like my work, consider giving a star to my repositories!*
