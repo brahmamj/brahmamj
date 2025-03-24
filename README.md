@@ -42,7 +42,7 @@
 
 ### 📫 Connect with Me
 - 📩 Email: **brahmam.j@outlook.com**
-- 🔗 LinkedIn: [yourprofile](https://www.linkedin.com/in/brahmamj/)
+- 🔗 LinkedIn: [brahmamj](https://www.linkedin.com/in/brahmamj/)
 - 🌍 Portfolio: [your-portfolio.com](https://your-portfolio.com)
 
 ---
