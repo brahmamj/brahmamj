@@ -2,8 +2,8 @@
 <h3 align="center">DevOps & MLOps Engineer | Cloud | Kubernetes | Automation</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofilebrahmamj"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/brahmamj"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+  <a href="mailto:brahmam.j@outlook.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail"></a>
   <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/-Portfolio-181717?style=flat-square&logo=github"></a>
 </p>
 
@@ -41,7 +41,7 @@
 ---
 
 ### 📫 Connect with Me
-- 📩 Email: **your.email@example.com**
+- 📩 Email: **brahmam.j@outlook.com**
 - 🔗 LinkedIn: [yourprofile](https://www.linkedin.com/in/brahmamj/)
 - 🌍 Portfolio: [your-portfolio.com](https://your-portfolio.com)
 
